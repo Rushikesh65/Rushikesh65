@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am Rushikesh👋
 🔭 I’m currently pursuing my masters at The University of Texas at Dallas in Systems Engineering and Management focusing on Data Engineering and Analytics
 
 ⚡ Little bit about me -
