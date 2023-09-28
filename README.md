@@ -28,6 +28,6 @@ Tools: GitHub, Databricks, Snowflake, Azure Data Factory, Azure DevOps, SSMS, SS
 Coursework: Data Analytics, Business Intelligence, ETL, Data Modelling, Database management, Regression Analysis, Statistical Modeling, Linear and logistic Regression, Risk and Decision Analysis, Agile Project Management
 
 📫 Please feel free to reach me for Full-time opportunities.
-LinkedIn: https://www.linkedin.com/in/rushikesh-kumbhar01/
+
 Email: rushikeshbharat.kumbhar@gmail.com
 Mobile: +1 4695790841
