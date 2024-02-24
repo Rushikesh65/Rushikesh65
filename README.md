@@ -27,5 +27,5 @@ Coursework: Data Analytics, Business Intelligence, ETL, Data Modelling, Database
 
 📫 Please feel free to reach me for Full-time opportunities.
 
-Email: rushikeshbharat.kumbhar@gmail.com
+Email: rushikeshbharat.kumbhar01@gmail.com
 Mobile: +1 4695790841
